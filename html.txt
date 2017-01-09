@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+My code with fixes
+=======
 My html code
+>>>>>>> 89f998e1e4cf758893aa44022ef452ef3ebb688e
